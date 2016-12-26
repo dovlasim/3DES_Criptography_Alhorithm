@@ -1,0 +1,15 @@
+C:\Users\ftn\Desktop\Projekat4.1\Encription\obj\x64\Debug\Encription.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\Projekat4.1\Encription\bin\x64\Debug\Encription.dll
+C:\Users\ftn\Desktop\Projekat4.1\Encription\bin\x64\Debug\Encription.pdb
+C:\Users\ftn\Desktop\Projekat4.1\Encription\obj\x64\Debug\Encription.dll
+C:\Users\ftn\Desktop\Projekat4.1\Encription\obj\x64\Debug\Encription.pdb
+C:\Users\ftn\Desktop\Projekat4.2\Encription\bin\x64\Debug\Encription.dll
+C:\Users\ftn\Desktop\Projekat4.2\Encription\bin\x64\Debug\Encription.pdb
+C:\Users\ftn\Desktop\Projekat4.2\Encription\obj\x64\Debug\Encription.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\Projekat4.2\Encription\obj\x64\Debug\Encription.dll
+C:\Users\ftn\Desktop\Projekat4.2\Encription\obj\x64\Debug\Encription.pdb
+C:\Users\ftn\Desktop\Projekat4.3\Encription\bin\x64\Debug\Encription.dll
+C:\Users\ftn\Desktop\Projekat4.3\Encription\bin\x64\Debug\Encription.pdb
+C:\Users\ftn\Desktop\Projekat4.3\Encription\obj\x64\Debug\Encription.csprojResolveAssemblyReference.cache
+C:\Users\ftn\Desktop\Projekat4.3\Encription\obj\x64\Debug\Encription.dll
+C:\Users\ftn\Desktop\Projekat4.3\Encription\obj\x64\Debug\Encription.pdb

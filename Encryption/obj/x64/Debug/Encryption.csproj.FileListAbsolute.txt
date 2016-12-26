@@ -1,0 +1,24 @@
+G:\SBSG\Projekat4.4\Encription\bin\x64\Debug\Encription.dll
+G:\SBSG\Projekat4.4\Encription\bin\x64\Debug\Encription.pdb
+G:\SBSG\Projekat4.4\Encription\obj\x64\Debug\Encryption.csprojResolveAssemblyReference.cache
+G:\SBSG\Projekat4.4\Encription\obj\x64\Debug\Encription.dll
+G:\SBSG\Projekat4.4\Encription\obj\x64\Debug\Encription.pdb
+G:\SBSG\Projekat4.4\Encryption\bin\x64\Debug\Encryption.dll
+G:\SBSG\Projekat4.4\Encryption\bin\x64\Debug\Encryption.pdb
+G:\SBSG\Projekat4.4\Encryption\obj\x64\Debug\Encryption.dll
+G:\SBSG\Projekat4.4\Encryption\obj\x64\Debug\Encryption.pdb
+G:\SBSG\Projekat4.5\Encryption\bin\x64\Debug\Encryption.dll
+G:\SBSG\Projekat4.5\Encryption\bin\x64\Debug\Encryption.pdb
+G:\SBSG\Projekat4.5\Encryption\obj\x64\Debug\Encryption.csprojResolveAssemblyReference.cache
+G:\SBSG\Projekat4.5\Encryption\obj\x64\Debug\Encryption.dll
+G:\SBSG\Projekat4.5\Encryption\obj\x64\Debug\Encryption.pdb
+C:\Users\Zoltan\Desktop\Projekat4.6\Encryption\bin\x64\Debug\Encryption.dll
+C:\Users\Zoltan\Desktop\Projekat4.6\Encryption\bin\x64\Debug\Encryption.pdb
+C:\Users\Zoltan\Desktop\Projekat4.6\Encryption\obj\x64\Debug\Encryption.csprojResolveAssemblyReference.cache
+C:\Users\Zoltan\Desktop\Projekat4.6\Encryption\obj\x64\Debug\Encryption.dll
+C:\Users\Zoltan\Desktop\Projekat4.6\Encryption\obj\x64\Debug\Encryption.pdb
+D:\FAKS'S doc\CETVRTA_GODINA\Blok 2 - Bezbednost\Projekat\Projekat4.7\Projekat4.7\Encryption\bin\x64\Debug\Encryption.dll
+D:\FAKS'S doc\CETVRTA_GODINA\Blok 2 - Bezbednost\Projekat\Projekat4.7\Projekat4.7\Encryption\bin\x64\Debug\Encryption.pdb
+D:\FAKS'S doc\CETVRTA_GODINA\Blok 2 - Bezbednost\Projekat\Projekat4.7\Projekat4.7\Encryption\obj\x64\Debug\Encryption.csprojResolveAssemblyReference.cache
+D:\FAKS'S doc\CETVRTA_GODINA\Blok 2 - Bezbednost\Projekat\Projekat4.7\Projekat4.7\Encryption\obj\x64\Debug\Encryption.dll
+D:\FAKS'S doc\CETVRTA_GODINA\Blok 2 - Bezbednost\Projekat\Projekat4.7\Projekat4.7\Encryption\obj\x64\Debug\Encryption.pdb
